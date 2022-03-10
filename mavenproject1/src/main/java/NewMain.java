@@ -8,7 +8,7 @@
  * @author Alumno
  */
 public class NewMain {
-
+System.out.printLn("Hey");
     /**
      * @param args the command line arguments
      */
